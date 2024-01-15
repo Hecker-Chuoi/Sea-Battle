@@ -1,0 +1,6 @@
+*.drawio
+*.iml
+*.xml
+.idea/
+/seabattle/.idea/
+*.bkp
